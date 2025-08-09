@@ -85,6 +85,6 @@ This project was created as part of a personal portfolio to demonstrate:
 ---
 
 ## 📧 Contact
-**Author:** [Nishma]  
-**GitHub:** [Your GitHub URL]  
+**Author:** [Nishma P]  
+**GitHub:** [https://github.com/nishmacodes]  
 
