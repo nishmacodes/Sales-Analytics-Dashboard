@@ -68,7 +68,7 @@ It includes KPIs, drill-through functionality, and region/product-level insights
 ## 📸 Dashboard Preview
 
 ### **Main Dashboard**
-![Dashboard](./screenshots/main_dashboard.png)
+![Main Dashboard](./screenshots/main_dashboard.png)
 
 ### **Product Details Page**
 ![Product Details](./screenshots/product_details.png)
