@@ -84,6 +84,13 @@ This project was created as part of a personal portfolio to demonstrate:
 
 ---
 
+## 📜 License
+
+This project is licensed under the MIT License.  
+See [`LICENSE`](LICENSE) for full details.
+
+---
+
 ## 📧 Contact
 **Author:** [Nishma P]  
 **GitHub:** [https://github.com/nishmacodes]  
