@@ -1,7 +1,6 @@
 # 📊 Sales Analytics Dashboard
 
 An interactive Power BI dashboard that analyzes sales performance using SQL as the backend.  
-This project demonstrates data extraction, transformation, and visualization skills, making it a portfolio-ready example for interviews.
 
 ---
 
