@@ -65,6 +65,15 @@ It includes KPIs, drill-through functionality, and region/product-level insights
 
 ---
 
+## 📸 Dashboard Preview
+
+### **Main Dashboard**
+![Main Dashboard](./screenshots/main_dashboard.png)
+
+### **Product Details Page**
+![Product Details](./screenshots/product_details.png)
+
+---
 
 ## 🎯 Purpose of the Project
 This project was created as part of a personal portfolio to demonstrate:
